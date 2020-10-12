@@ -1,0 +1,13 @@
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.exe
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.deps.json
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.runtimeconfig.json
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.runtimeconfig.dev.json
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.dll
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\bin\Debug\netcoreapp3.1\Ex_Set.pdb
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.csprojAssemblyReference.cache
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.csproj.CoreCompileInputs.cache
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.AssemblyInfoInputs.cache
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.AssemblyInfo.cs
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.dll
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.pdb
+C:\Users\naiap\source\repos\Ex_Set\Ex_Set\obj\Debug\netcoreapp3.1\Ex_Set.genruntimeconfig.cache
